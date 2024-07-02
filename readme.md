@@ -17,6 +17,12 @@ O modelo de serviço de gamificação deve incluir as seguintes funcionalidades 
 ## 🚀 Projetos Desenvolvidos
 Lista dos projetos desenvolvidos seguindo esta especificação:
 
-1. **Goravel Gamification Service:** Uma implementação do serviço de gamificação usando o framework Goravel, inspirado no Laravel, mas escrito em Go.
+1. [**Goravel Gamification Service:**](https://github.com/vinaocruz/goravel-gamification-service) Uma implementação do serviço de gamificação usando o framework Goravel, inspirado no Laravel, escrito em Go
+
+2. **Fast Gamification Service**: Uma implementação usando o framework FastAPI do Python (em breve)
+
+3. **Laravel Gamification Service**: Abordagem com framework com maior mercado com PHP (em breve)
+
+4. **Rocket Gamification Service**: Implementação com Rust em cima do framework [Rocket.rs](https://rocket.rs) (em breve)
 
 Cada projeto implementado de acordo com esta especificação serve como um exemplo prático e pode ser utilizado como modelo para outras implementações em diferentes tecnologias.
